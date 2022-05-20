@@ -1,9 +1,13 @@
 ### Hi
 hello my name is li chaocheng nice to visit my GitHub
+
+## Code
+[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cc360428&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cc360428&layout=compact&hide_border=true&langs_count=10)
 
 
-
+## Ohter
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
