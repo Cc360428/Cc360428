@@ -1,9 +1,9 @@
 ### Hi
 hello my name is li chaocheng nice to visit my GitHub
-![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phh95&layout=compact&hide_border=true&langs_count=10)
+![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cc360428&layout=compact&hide_border=true&langs_count=10)
 
-<!--
-**Cc360428/Cc360428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
